@@ -2,12 +2,12 @@ import { Avatar, Box, chakra, Flex, Icon, SimpleGrid, useColorModeValue, } from 
 
 const testimonials = [
     {
-        name: 'Hardik Desai',
+        name: 'Anurag Tripathy',
         role: 'Fronted Web Developer',
         content:
             'This quiz web app is built using React JS. It can allow the user to select the criteria for their quiz from a list of options. The user can then proceed to answer the questions in the quiz and their performance will be tracked and shown in the scoreboard. Moreover, the app can be designed to be responsive and user-friendly.',
         avatar:
-            'https://avatars.githubusercontent.com/u/87645745?v=4',
+            'https://media.licdn.com/dms/image/v2/D4D03AQGYcmwaj8xRSg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694933923080?e=1729123200&v=beta&t=DbylikXOcRlhut6mVc1Gq9cA1M3VgDPBejZPXccfFEw',
     }
 ];
 
